@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924923122644",
+    "project_id": "carapi-c8337",
+    "storage_bucket": "carapi-c8337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924923122644:android:fbcea04cae4e74f6cafc41",
+        "android_client_info": {
+          "package_name": "com.example.myapitest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB122Wdl48WU489V2r-iObkcfDO7cQhC_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
